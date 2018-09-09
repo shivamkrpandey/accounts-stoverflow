@@ -1,14 +1,13 @@
 To run this app, steps are following: 
 
-1. `cd server`
-2. run `node app.js`
+1. run `node app.js`
 
 You will see 
 `🚀 App is running on port 3000`
 
-3. On your browser, hit `http://localhost:3000/graphql`
+2. On your browser, hit `http://localhost:3000/graphql`
 
-4. Add mutation like: 
+3. Add mutation like: 
 
 ```
 mutation {
@@ -19,8 +18,9 @@ mutation {
   }
 }
 ```
+<img width="600" alt="webpack-bundle-analyzer" src="https://github.com/shivamkrpandey/accounts-stoverflow/blob/master/mutation.png">
 
-5. Query: 
+4. Query: 
 
 ```
 query {
@@ -29,3 +29,5 @@ query {
   }
 }
 ```
+
+<img width="600" alt="webpack-bundle-analyzer" src="https://github.com/shivamkrpandey/accounts-stoverflow/blob/master/query.png">
