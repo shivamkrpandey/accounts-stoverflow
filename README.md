@@ -1,3 +1,5 @@
+This repo was created to answer a question on stackoverflow: https://stackoverflow.com/questions/52243415/what-is-the-correct-type-to-use-for-an-objectid-field-across-mongoose-and-graphq/52243907#52243907
+
 To run this app, steps are following: 
 
 1. run `node app.js`
